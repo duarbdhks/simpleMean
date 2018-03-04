@@ -2,7 +2,7 @@
   "name": "simplemean",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,6 @@
     "passport-jwt": "^3.0.1"
   },
   "devDependencies": {
-    "@angular/cli": "~1.7.2"
+    "@angular/cli": "^1.7.2"
   }
 }
