@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/duarbdhks/simpleMean/issues"
   },
-  "homepage": "https://github.com/duarbdhks/simpleMean#readme"
+  "homepage": "https://github.com/duarbdhks/simpleMean#readme",
+  "dependencies": {
+    "bcryptjs": "~2.4.3",
+    "body-parser": "~1.18.2",
+    "cors": "~2.8.4",
+    "express": "~4.16.2",
+    "jsonwebtoken": "~8.2.0",
+    "mongoose": "~4.13.11",
+    "passport": "~0.4.0",
+    "passport-jwt": "^3.0.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "~1.7.2"
+  }
 }
